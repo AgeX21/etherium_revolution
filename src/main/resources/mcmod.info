@@ -1,0 +1,16 @@
+[
+{
+  "modid": "etheriumrevolution",
+  "name": "Etherium Revolution",
+  "description": "Not a plagia of Draconic Evolution.",
+  "version": "1.0",
+  "mcversion": "${1.12.2}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["AgeX21"],
+  "credits": "Myself",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
